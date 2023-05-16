@@ -16,3 +16,4 @@ const login = async function (data) {
 
 events.on("login", login);
 
+console.log("Hello World")
